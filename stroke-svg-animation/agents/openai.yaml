@@ -1,0 +1,3 @@
+display_name: Stroke SVG Animation
+short_description: Turns stroke-only SVGs into Lottie and textured video line-growth animations.
+default_prompt: Convert this stroke-only SVG into clean, pencil, or chalk Lottie/video animation.
